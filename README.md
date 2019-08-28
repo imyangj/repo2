@@ -10,5 +10,9 @@
   
 下面是代码
 
+![一张图片](1.png)
+
 ````javascript
 console.log(hello)
+````
+
